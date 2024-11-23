@@ -1,9 +1,9 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import ListPage from "./components/ListPage";
-import DetailPage from "./components/DetailPage";
-import UpdatePage from "./components/UpdatePage";
-import CreatePage from "./components/CreatePage";
+import ListPage from "./ListPage";
+import DetailPage from "./DetailPage";
+import UpdatePage from "./UpdatePage";
+import CreatePage from "./CreatePage";
 
 function App() {
   return (
